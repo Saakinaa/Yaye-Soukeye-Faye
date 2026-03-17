@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="animation: fadeInDown 0.8s ease-in;"></h1>
+    <h1></h1>
   
 # Yaye Soukeye Faye
 </div>
