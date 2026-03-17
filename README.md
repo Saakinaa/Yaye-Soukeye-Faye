@@ -90,12 +90,9 @@ Results-oriented data professional with a strong foundation in data analysis, st
 
 ## Featured Projects
 
-### Project 1: Data Analysis Initiative
-Brief description of the project, problem statement, and key outcomes or insights derived from the analysis.
+### Project 1: Sentiment Analysis Project
 
-**Technologies**: Python, Pandas, Scikit-learn, Matplotlib
-
-[View Repository](https://github.com)
+[View Repository](https://github.com/Saakinaa/Sentiment_Analysis)
 
 ---
 
