@@ -30,7 +30,7 @@ Results-oriented data professional with a strong foundation in data analysis, st
 
 ### Data Science & Machine Learning
 
-<div align="center">
+<div align="">
   
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -44,7 +44,7 @@ Results-oriented data professional with a strong foundation in data analysis, st
 
 ### Databases
 
-<div align="center">
+<div align="">
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,7 +53,7 @@ Results-oriented data professional with a strong foundation in data analysis, st
 
 ### Business Intelligence & Visualization
 
-<div align="center">
+<div align="">
   
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -137,32 +137,5 @@ Brief description of the analysis, methods used, and recommendations provided.
 
 </div>
 
----
 
-<div align="center">
-  <sub>Built with passion for data | Last Updated: March 2026</sub>
-</div>
 
-<style>
-  @keyframes fadeInDown {
-    from {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
