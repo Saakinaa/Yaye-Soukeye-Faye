@@ -38,6 +38,7 @@ Results-oriented data professional with a strong foundation in data analysis, st
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
   ![Seaborn](https://img.shields.io/badge/Seaborn-45B7D1?style=for-the-badge)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
