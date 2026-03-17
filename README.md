@@ -1,4 +1,8 @@
+<div align="center">
+    <h1 style="animation: fadeInDown 0.8s ease-in;">Yaye Soukeye Faye</h1>
+  
 # Yaye Soukeye Faye
+</div>
 
 <div align="center">
   <h2 style="animation: fadeInDown 0.8s ease-in;">Junior Data Scientist | Data Analyst</h2>
